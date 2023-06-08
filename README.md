@@ -4,8 +4,8 @@
 Guide to Creating the sp_WhoIsActive Procedure in Microsoft SQL Server 2019.
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/d4b6718a-2155-482a-971f-d08c8c5d95ba)
 ![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/8cc3b2d6-88bc-4794-8045-26b2a0519040)
+
 
 ## What Is an sp_WhoIsActive ?  
 
@@ -68,7 +68,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 
 
 #### 1 - 1
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/1f253a74-cb5d-447f-b3d3-e074a1e102fc)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/0f4be187-b69c-4315-97fd-5dde4bcfa03b)
 
 
 #### 1 - 2
