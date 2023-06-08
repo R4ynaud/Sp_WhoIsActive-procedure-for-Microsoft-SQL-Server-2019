@@ -84,7 +84,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 
 
 #### 1 - 5
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/cebfc04a-1abb-444d-ad46-b099c73af525)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/b7a8f255-ecfc-4690-9247-22bf9bd3d99b)
 
 
 ## 2-) After downloading the file, we open the " sp_WhoIsActive.sql " file located inside the folder in SQL Server Management Studio. 
