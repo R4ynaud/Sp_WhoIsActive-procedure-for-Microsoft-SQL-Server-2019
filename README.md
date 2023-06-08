@@ -102,7 +102,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ## 3-) SQL Server Management Studio'da açtığımız 'sp_WhoIsActive.sql' dosyasını çalıştırmak istediğimiz şemayı seçerek çalıştırıyoruz (Execute veya F5).
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/ed644f4f-c708-4eee-b258-8a23663a19d2)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/fe55ec87-6920-4e88-9cd6-2754ad249307)
 
 
 ![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/7c1e2172-230f-459b-ad41-a81aa3df96c3)
