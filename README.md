@@ -147,7 +147,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ## 2-) Açılan sekmede "Name" alanına oluşturacağımız job'ın adını giriyoruz.
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/45810661-1bd0-46cb-ab79-348434db7ff5)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/23ea7414-0ed2-4d42-9fd5-b2f29661c720)
 
 
 ## 3-) Click on the "New" button in the "Steps" tab to define the "EXEC sp_whoisactive" command that will be executed by the job.
