@@ -117,7 +117,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 > EXEC sp_whoisactive 
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/b5a6f0e4-4e4f-4df5-b9d5-de18117713dd)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/7ac75d60-de0c-449a-814e-88823fdd6048)
 
 
 ![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/b070f464-52a0-411f-851f-83efc53216a3)
