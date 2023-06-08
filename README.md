@@ -138,7 +138,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/a6fac921-e872-454e-b390-741c6aca2cf4)
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/5de8792e-99c4-4681-96f7-225141363bc4)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/dd1456f7-b447-4391-803f-cce68571dd35)
 
 
 ## 2-) In the opened tab, enter the name of the job you are creating in the "Name" field.
