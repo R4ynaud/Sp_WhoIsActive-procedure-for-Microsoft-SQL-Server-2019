@@ -126,7 +126,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ## We need to schedule our "sp_WhoIsActive" procedure with the "SQL Server Agent" to run every 59 seconds. This process will allow us to gather information about the SQL queries executed on the database and provide us with the ability to monitor and review these queries.
 
 
-## Oluşturduğumuz "sp_WhoIsActive" prosedürümüzü "SQL Server Agent" ile 59 saniyede bir çalışacak şekilde schedule etmemiz gerekiyor, bu işlem veritabanında çalıştırılan SQL sorguları hakkında bilgi toplamamızı ve bu sorguları izleme ve inceleme olanağı sağlayacaktır bize.
+## Oluşturduğumuz "sp_WhoIsActive" prosedürümüzü "SQL Server Agent" ile 59 saniyede bir çalışacak şekilde schedule etmemiz gerekiyor, bu işlem veritabanında çalıştırılan SQL sorguları hakkında bilgi toplamamızı, bu sorguları izleme ve inceleme olanağı sağlayacaktır bize.
 
 
 ## 1-) Let's navigate to SQL Server Agent and click on the "New" -> "Job" tab.
