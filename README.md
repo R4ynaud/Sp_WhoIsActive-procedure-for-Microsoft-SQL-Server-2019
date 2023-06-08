@@ -168,7 +168,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/4372aa63-6e85-41df-a60f-f33e82b50932)
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/7a48b809-142f-4311-839e-5f2fb46ce448)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/b7667a9c-1b24-4771-879e-299965def568)
 
 
 ## 5-) Finally, click on the "View History" tab to review the logs and verify that the job we created is running successfully.
