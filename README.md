@@ -5,7 +5,7 @@ Guide to Creating the sp_WhoIsActive Procedure in Microsoft SQL Server 2019.
 
 
 ![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/d4b6718a-2155-482a-971f-d08c8c5d95ba)
-
+https://github-production-user-asset-6210df.s3.amazonaws.com/93924485/244363685-d4b6718a-2155-482a-971f-d08c8c5d95ba.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20230608%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20230608T162133Z&X-Amz-Expires=300&X-Amz-Signature=d7acf3438c8ebbce0c619775e5d6a66a8ddb7b3801b9499b353178332ca98836&X-Amz-SignedHeaders=host&actor_id=93924485&key_id=0&repo_id=651039074
 
 ## What Is an sp_WhoIsActive ?  
 
