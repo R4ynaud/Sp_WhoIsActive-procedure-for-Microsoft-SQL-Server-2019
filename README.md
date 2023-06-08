@@ -156,7 +156,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ## 3-) "Steps" sekmesinden "New" butonuna tıklayarak "EXEC sp_whoisactive" komutunu çalıştıracağımız job'a tanımlıyoruz.
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/76c2957f-7195-4434-af45-f795d6bc0424)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/339faaf8-12a4-421a-9870-55f91bff91e5)
 
 
 ## 4-) Click on the "New" button in the "Schedules" tab to configure the job to trigger automatically, running every 59 seconds.
