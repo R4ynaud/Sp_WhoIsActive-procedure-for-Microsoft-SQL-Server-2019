@@ -177,7 +177,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ## 5-) Son olarak "View History" sekmesine tıklayıp logları incelediğimiz oluşturduğumuz job'ın sorunsuz çalıştığını görebiliyoruz.
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/d1d22369-2348-458b-9f3a-dc80c122c465)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/5a92bbde-f6b8-4e50-83c8-2294e7405bf8)
 
 
 
