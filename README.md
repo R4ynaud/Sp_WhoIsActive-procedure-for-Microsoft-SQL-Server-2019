@@ -1,7 +1,7 @@
-# sp_WhoIsActive Procedure For Microsoft SQL Server 2019.
+# sp_WhoIsActive Procedure For Microsoft SQL Server 2019
 
 
-Guide to Creating the sp_WhoIsActive Procedure in Microsoft SQL Server 2019.
+Guide to Creating the sp_WhoIsActive Procedure in Microsoft SQL Server 2019
 
 
 ![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/8cc3b2d6-88bc-4794-8045-26b2a0519040)
