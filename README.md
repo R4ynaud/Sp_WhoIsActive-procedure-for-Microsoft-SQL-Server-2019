@@ -72,7 +72,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 
 
 #### 1 - 2
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/1914d8f4-0983-4410-ac0e-c222ef70642a)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/589f9f08-eb8a-46da-bf95-b84220387d5e)
 
 
 #### 1 - 3
