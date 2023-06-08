@@ -105,7 +105,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/fe55ec87-6920-4e88-9cd6-2754ad249307)
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/7c1e2172-230f-459b-ad41-a81aa3df96c3)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/d6cbd111-39c0-4494-aae7-0a93b4ce1213)
 
 
 ## 4-) After successfully creating our procedure, we run the "EXEC sp_whoisactive" command to check it.
