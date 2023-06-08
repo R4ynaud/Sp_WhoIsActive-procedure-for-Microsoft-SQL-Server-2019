@@ -135,7 +135,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ## 1-) SQL Server Agent'a gelin ve "New" -> "Job" sekmesine tıklayalım.
 
 
-![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/a06b8982-6a13-4320-b455-c74661b43916)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019-TEST/assets/93924485/a6fac921-e872-454e-b390-741c6aca2cf4)
 
 
 ![image](https://github.com/R4ynaud/sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/5de8792e-99c4-4681-96f7-225141363bc4)
