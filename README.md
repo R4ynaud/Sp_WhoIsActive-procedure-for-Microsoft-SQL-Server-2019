@@ -166,7 +166,7 @@ sp_WhoIsActive prosedürü, aşağıdaki bilgileri sağlar:
 ## 4-) "Schedules" sekmesinden "New" butonuna tıklayarak job'ı her 59 saniyede otomatik olarak çalışması tektikleyecek şekilde ayarlıyoruz.
 
 
-![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/4d236088-4783-4872-9c9f-02163c920606)
+![image](https://github.com/R4ynaud/Sp_WhoIsActive-procedure-for-Microsoft-SQL-Server-2019/assets/93924485/c10ebcfe-29a8-42a3-8ffd-a41776ee3276)
 
 
 
